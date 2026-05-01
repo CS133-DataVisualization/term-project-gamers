@@ -34,7 +34,8 @@ We aim to build predictive models that estimate player reception based on game f
 
 
 # Important
-The dataset can also be downloaded from:
+Dataset file too large to be included within the repo
+Instead, the dataset can be downloaded from:
 https://www.kaggle.com/datasets/artermiloff/steam-games-dataset
 
 Then upload it to your Google Drive before running notebooks.
